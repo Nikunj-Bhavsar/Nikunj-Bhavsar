@@ -1,174 +1,190 @@
-<div align="center">👋 Hi, I'm Nikunj Bhavsar
+<div align="center">
 
-<a href="https://github.com/Nikunj-Bhavsar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=3776AB&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning+%7C+AI+%7C+Data;Building+Real-World+Technology" alt="Typing SVG" />
-</a><br><a href="https://www.linkedin.com/in/nikunj-bhavsar-425262182/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+# 👋 Hi, I'm Nikunj Bhavsar
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=3776AB&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning;Building+Real-World+Technology" alt="Typing SVG" />
+
+### 🧠 AI • Machine Learning • Data
+
+<a href="https://www.linkedin.com/in/nikunj-bhavsar-425262182/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://ridertax.co.uk">
-<img src="https://img.shields.io/badge/RiderTax-Visit-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/RiderTax-Visit-111827?style=for-the-badge" />
 </a>
-&nbsp;
+
 <a href="https://virlostudio.com">
-<img src="https://img.shields.io/badge/Virlo%20Studio-Visit-7C3AED?style=for-the-badge">
-</a><br><br>
+<img src="https://img.shields.io/badge/Virlo%20Studio-Visit-7C3AED?style=for-the-badge" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:7C3AED&height=120&section=header" width="100%"/></div>🧑‍💻 About Me
-
-I'm a Data Science student building my path toward AI Engineering and Machine Learning.
-
-My focus is on developing the technical foundations required to build intelligent systems — from data analysis and machine learning through to deep learning, LLMs and production AI.
-
-I also build real-world software products, giving me a practical perspective on how technology moves from an idea into something people can actually use.
+</div>
 
 ---
 
-🚀 What I'm Building
+## 👨‍💻 About Me
 
-<div align="center">🚴 RiderTax| 🤖 Virlo Studio
-UK-focused tax technology platform| AI-powered social media platform
-Tax Technology • APIs • Automation| AI • Automation • SaaS
-"Explore →" (https://ridertax.co.uk)| "Explore →" (https://virlostudio.com)
+I'm a **BSc (Hons) Data Science student** building my path toward **AI Engineering and Machine Learning**.
 
-</div>---
+My goal is to develop the technical foundations required to build intelligent systems — from **Python, statistics and data analysis** through to **machine learning, deep learning, LLMs and production AI**.
 
-🧠 AI / ML Journey
+I'm also building real-world software products, giving me practical experience turning ideas into technology people can actually use.
 
-<div align="center">🐍 Python
+---
 
-⬇️
+## 🚀 What I'm Building
 
-📊 Data Science
+### 🛵 RiderTax
 
-⬇️
+**UK-focused tax technology for self-employed delivery riders.**
 
-🤖 Machine Learning
+Building around:
 
-⬇️
+`Software Engineering` • `APIs` • `Data` • `Automation` • `FinTech`
 
-🧠 Deep Learning
+**→ [Explore RiderTax](https://ridertax.co.uk)**
 
-⬇️
+---
 
-💬 NLP & Transformers
+### 🤖 Virlo Studio
 
-⬇️
+**AI-powered platform for social media content creation and automation.**
 
-✨ LLMs & Generative AI
+Building around:
 
-⬇️
+`Artificial Intelligence` • `Automation` • `SaaS` • `Product Engineering`
 
-🔎 RAG & AI Agents
+**→ [Explore Virlo Studio](https://virlostudio.com)**
 
-⬇️
+---
 
-🚀 Production AI & MLOps
+## 🧠 AI / ML Journey
 
-</div>---
+<div align="center">
 
-🛠️ Technology
+**🐍 Python**  
+↓  
+**📊 Data Science & Statistics**  
+↓  
+**🤖 Machine Learning**  
+↓  
+**🧠 Deep Learning**  
+↓  
+**💬 NLP & Transformers**  
+↓  
+**✨ LLMs & Generative AI**  
+↓  
+**🔎 RAG & AI Agents**  
+↓  
+**🚀 Production AI & MLOps**
 
-Currently Building With
+</div>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js,sql,git,github,azure,vercel,supabase&perline=8" /></div>AI / Data Stack
+---
 
-<div align="center"><img src="https://img.shields.io/badge/Python-Learning%20%26%20Building-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Data-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 🛠️ Technology
+
+### Currently Building With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,git,github,azure,vercel,supabase" />
+
+</div>
+
+### 📊 AI / Data Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></div>---
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-📚 Currently Learning
-
-<div align="center">"Python" "Statistics" "Data Analysis" "Machine Learning"
-
-"Algorithms" "Data Structures" "SQL" "AI Engineering"
-
-</div>I'm deliberately building the fundamentals first.
-
-The goal isn't to collect technology names — it's to understand how the systems work and eventually build them myself.
+</div>
 
 ---
 
-🎯 Long-Term Direction
+## 📚 Currently Learning
 
-<div align="center">Data Science
+<div align="center">
 
-↓
+`Python` `Statistics` `Data Analysis`
 
-Machine Learning
+`Machine Learning` `Algorithms` `Data Structures`
 
-↓
+`SQL` `Artificial Intelligence`
 
-Deep Learning
+</div>
 
-↓
+I'm deliberately building the **fundamentals first**.
 
-Generative AI
-
-↓
-
-AI Engineering
-
-</div>My long-term goal is to become an AI / Machine Learning Engineer capable of taking an idea from raw data and experimentation through to a reliable production system.
+The goal isn't to collect technology names — it's to understand how systems work and eventually build reliable AI products.
 
 ---
 
-🔥 Featured Projects
+## 🎓 Education
 
-«This section will grow as I build my AI/ML portfolio.»
+### BSc (Hons) Data Science
 
-🚴 RiderTax
-
-UK tax technology platform for self-employed delivery riders.
-
-Focus: Software Engineering • APIs • Data • Automation • FinTech
-
-🤖 Virlo Studio
-
-AI-powered platform for social media content creation and automation.
-
-Focus: Artificial Intelligence • Automation • SaaS • Product Engineering
-
-🧪 More AI/ML Projects Coming
-
-My GitHub portfolio will progressively document projects across:
-
-"Data Science" → "Machine Learning" → "Deep Learning" → "LLMs" → "AI Agents"
-
----
-
-🎓 Education
-
-BSc (Hons) Data Science
-
-London Metropolitan University
+**London Metropolitan University**
 
 Focus areas:
 
-"Data Science" "Artificial Intelligence" "Machine Learning" "Data Analysis" "Programming"
+`Data Science` • `Artificial Intelligence` • `Machine Learning`  
+`Data Analysis` • `Programming` • `Algorithms`
 
 ---
 
-📈 GitHub Journey
+## 🎯 Long-Term Goal
+
+<div align="center">
+
+### AI / Machine Learning Engineer
+
+</div>
+
+My long-term goal is to become an **AI / Machine Learning Engineer** capable of taking an idea from raw data and experimentation through to a reliable production system.
+
+---
+
+## 🔥 Featured Projects
+
+This section will grow as I build my AI/ML portfolio.
+
+### 🛵 RiderTax
+UK tax technology platform for self-employed delivery riders.
+
+### 🤖 Virlo Studio
+AI-powered platform for social media content creation and automation.
+
+---
+
+## 📈 GitHub Journey
 
 I'm building this profile from the ground up.
 
-Every repository will represent something I have actually learned, built or experimented with.
+Every repository will represent something I have **actually learned, built or experimented with**.
 
-As the portfolio grows, this section will evolve into:
+The portfolio will progressively evolve across:
 
-- 🧠 Machine Learning projects
-- 🔥 Deep Learning projects
+- 🧠 Machine Learning
+- 🔥 Deep Learning
 - 💬 NLP & LLM applications
 - 🔎 RAG systems
 - 🤝 AI agents
 - 🚀 Deployed AI applications
-- ☁️ Cloud & MLOps projects
+- ☁️ Cloud & MLOps
 
 ---
 
-<div align="center">🌱 Building. Learning. Shipping.
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3776AB&height=100&section=footer" width="100%"/></div>
+### 🌱 Building. Learning. Shipping.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:7C3AED&height=100&section=footer" width="100%" />
+
+</div>

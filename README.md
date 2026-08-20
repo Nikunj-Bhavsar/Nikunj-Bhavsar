@@ -26,7 +26,7 @@
 
 I'm a **BSc (Hons) Data Science student** building my path toward **AI Engineering and Machine Learning**.
 
-My goal is to develop the technical foundations required to build intelligent systems — from **Python, statistics and data analysis** through to **machine learning, deep learning, LLMs and production AI**.
+My goal is to develop the technical foundations required to build intelligent systems from **Python, statistics and data analysis** through to **machine learning, deep learning, LLMs and production AI**.
 
 I'm also building real-world software products, giving me practical experience turning ideas into technology people can actually use.
 

@@ -122,7 +122,7 @@ Building around:
 
 I'm deliberately building the **fundamentals first**.
 
-The goal isn't to collect technology names — it's to understand how systems work and eventually build reliable AI products.
+The goal isn't to collect technology names it's to understand how systems work and eventually build reliable AI products.
 
 ---
 
